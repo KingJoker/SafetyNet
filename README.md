@@ -20,9 +20,12 @@ Unlike traditional keyloggers which act as spyware (logging everything to disk c
 
 ### Prerequisites
 * **Windows 10/11**
-* **AutoHotkey v2** (Required only for compiling, not for running the final `.exe`)
+* **AutoHotkey v2** (Required only if compiling, not for running the final `.exe`)
 
-### Step 1: Compile
+### Step 1: Download
+1. Download already compiled release [here]!(https://github.com/KingJoker/SafetyNet/releases)
+
+### Step 1b: Compile (Optional)
 1.  Open **Ahk2Exe** (AutoHotkey Compiler).
 2.  **Source:** Select `SafetyNet.ahk`.
 3.  **Base File:** Ensure you select a **v2.0** base file (e.g., `AutoHotkey64.exe`).
@@ -84,5 +87,6 @@ While designed for data recovery and personal use, it utilizes technologies iden
 * **Security:** Ensure the folder containing `SafetyNet.exe` is secure. Anyone with access to this machine can trigger a "Dump" to see what you have recently typed in monitored windows.
 
 ## License
+
 
 MIT License. Feel free to modify and distribute.
