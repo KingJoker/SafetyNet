@@ -1,3 +1,4 @@
+![SafetyNet Icon](./Main.ico)
 # SafetyNet
 
 **SafetyNet** is a lightweight, privacy-focused "rolling buffer" utility designed to save you from the "accidental refresh" disaster. 
@@ -90,3 +91,4 @@ While designed for data recovery and personal use, it utilizes technologies iden
 
 
 MIT License. Feel free to modify and distribute.
+
